@@ -390,7 +390,7 @@ form button:hover{
 .wave {
     width: 100%;
     position: absolute;
-    top: -8%;
+    top: -5%;
     left: 0;
     z-index: 100;
 }
@@ -407,9 +407,9 @@ form button:hover{
 }
 
 .truck-footer img{
-width: 150px;
+width: 100px;
     position: absolute;
-    top: -10%;
+    top: -5%;
     left: 50%;
     transform: translateX(-50%);
     z-index: 200;
